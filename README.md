@@ -1,11 +1,11 @@
 MobileGallery
 ------
 
-<b>移动端的WEB相册实例代码</b>
+<b>移动端的WEB相册实例代码</b><br>
 
-<br>
-> *[慕课网移动端的WEB相册课程](http://www.imooc.com/learn/140)
-> *[demo示例预览](https://alexz33.github.io/webmobile_Gallery/index.html)
+
+> [慕课网移动端的WEB相册课程](http://www.imooc.com/learn/140)
+> [demo示例预览](https://alexz33.github.io/webmobile_Gallery/index.html)
 
 
 use your mobile phone 
